@@ -1,3 +1,3 @@
 ## Color generator v2:
 
-## Link:
+## Link: https://semir-pljakic-color-generator-v2.netlify.app/
